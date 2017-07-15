@@ -1,9 +1,10 @@
 # Ip-proxy
 
-  一、环境要求
+ 一、环境要求
+  
 py version>=3.5 
 
-redis
+redis-server
 
 二、额外的python模块
 
