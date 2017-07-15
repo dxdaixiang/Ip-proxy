@@ -1,7 +1,8 @@
 # Ip-proxy
 
-一、环境要求
-py version>=3.5
+ # 一、环境要求
+py version>=3.5 
+
 redis
 
 二、额外的python模块
